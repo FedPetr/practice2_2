@@ -34,7 +34,7 @@ int main() {
     return 0;
 }
 
-Задание 4
+Задание 4(работает только до 1023)
 
 #include <iostream>
 using namespace std;
